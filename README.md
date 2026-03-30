@@ -1,90 +1,128 @@
-🇦🇷 Soporte de Antigravity IDE para Unity
+<p align="center">
+  <img src="Images/banner.png" alt="Antigravity for Unity Banner" width="100%">
+</p>
+
+<h1 align="center">VivaPeron (Antigravity) for Unity</h1>
+
+<p align="center">
+  Integrates Antigravity as an external script editor for Unity.
+</p>
+
+<p align="center">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-2021.3%2B-black?logo=unity">
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-blue">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Working-success">
+</p>
+
+---
+
+## 🇦🇷 Soporte de Antigravity IDE para Unity
 
 Integra Antigravity como editor de scripts externo en Unity, permitiendo apertura de archivos, navegación por errores y generación de proyectos C# para Intellisense.
 
-📦 Instalación
+<p align="center">
+  <img src="Images/unity-external-tools.png" alt="Unity External Tools" width="850">
+</p>
 
-vía Package Manager (Git URL)  
-Abrí Unity  
-Ir a Window > Package Manager  
-Click en + → Add package from git URL...  :
-"https://github.com/rustimacc/Antigravity-for-Unity.git"
+## 📦 Instalación
 
-vía Package (local)  
-Copiar la carpeta com.antigravity.unity.ide dentro de tu proyecto en:  
-Packages/com.antigravity.unity.ide  
-Unity detectará automáticamente el package  
-Esperar a que compile  
+### vía Package Manager (Git URL)
 
-⚙️ Uso
+1. Abrí Unity  
+2. Ir a `Window > Package Manager`  
+3. Click en `+` → `Add package from git URL...`  
+4. Ingresar la URL del repositorio  
 
-Ir a Edit > Preferences > External Tools  
-En External Script Editor, seleccionar:  
-👉 Antigravity
+### vía Disk (local)
+
+1. Ir a `Window > Package Manager`  
+2. Click en `+` → `Add package from disk...`  
+3. Seleccionar el archivo `package.json` del package  
+
+## ⚙️ Uso
+
+1. Ir a `Edit > Preferences > External Tools`  
+2. En **External Script Editor**, seleccionar:  
+   👉 `VivaPeron (Antigravity)`
 
 Si no aparece automáticamente:
 
-usar Browse...  
-seleccionar el ejecutable Antigravity.exe  
+- usar `Browse...`
+- seleccionar el ejecutable `Antigravity.exe`
 
-🧠 Configuración recomendada (Intellisense)
+## 🧠 Configuración recomendada (Intellisense)
 
-En External Tools, asegurarse de activar:
+En `External Tools`, asegurarse de activar:
 
-Embedded packages  
-Local packages  
-Registry packages  
+- Embedded packages
+- Local packages
+- Registry packages
 
 Opcional (según proyecto):
 
-Git packages  
-Built-in packages  
+- Git packages
+- Built-in packages
 
 ---
 
-🇺🇸 Antigravity IDE Support for Unity
+## 🇺🇸 Antigravity IDE Support for Unity
 
 Integrates Antigravity as an external script editor for Unity, enabling file opening, error navigation, and C# project generation for Intellisense.
 
-📦 Installation
+<p align="center">
+  <img src="Images/demo.gif" alt="Demo" width="850">
+</p>
 
-via Package Manager (Git URL)  
-Open Unity  
-Go to Window > Package Manager  
-Click + → Add package from git URL...  
-Enter the repository URL  
+## 📦 Installation
 
-via Local Package  
-Copy the folder com.antigravity.unity.ide into your project:  
-Packages/com.antigravity.unity.ide  
-Unity will automatically detect the package  
-Wait for compilation  
+### via Package Manager (Git URL)
 
-⚙️ Usage
+1. Open Unity  
+2. Go to `Window > Package Manager`  
+3. Click `+` → `Add package from git URL...`  
+4. Enter the repository URL  
 
-Go to Edit > Preferences > External Tools  
-In External Script Editor, select:  
-👉 VivaPeron (Antigravity)
+### via Disk (local)
+
+1. Go to `Window > Package Manager`  
+2. Click `+` → `Add package from disk...`  
+3. Select the `package.json` file  
+
+## ⚙️ Usage
+
+1. Go to `Edit > Preferences > External Tools`  
+2. In **External Script Editor**, select:  
+   👉 `VivaPeron (Antigravity)`
 
 If it does not appear:
 
-click Browse...  
-select Antigravity.exe  
+- click `Browse...`
+- select `Antigravity.exe`
 
-🧠 Recommended Setup (Intellisense)
+## 🧠 Recommended Setup (Intellisense)
 
 Make sure these are enabled:
 
-Embedded packages  
-Local packages  
-Registry packages  
+- Embedded packages
+- Local packages
+- Registry packages
 
 Optional:
 
-Git packages  
-Built-in packages  
+- Git packages
+- Built-in packages
 
 ---
 
-✌️✌️✌️  
-VIVA PERÓN!
+## 📚 Documentation
+
+- [Setup Windows](Documentation~/setup-windows.md)
+- [Troubleshooting](Documentation~/troubleshooting.md)
+
+---
+
+<p align="center">
+  ✌️✌️✌️
+</p>
+
+<h1 align="center">VIVA PERÓN!</h1>
