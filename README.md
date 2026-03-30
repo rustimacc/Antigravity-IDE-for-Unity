@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Images/banner.png" alt="Antigravity for Unity Banner" width="100%">
-</p>
-
 <h1 align="center">Soporte Antigravity para Unity</h1>
 
 <p align="center">
@@ -20,9 +16,6 @@
 
 Integra Antigravity como editor de scripts externo en Unity, permitiendo apertura de archivos, navegación por errores y generación de proyectos C# para Intellisense.
 
-<p align="center">
-  <img src="Images/unity-external-tools.png" alt="Unity External Tools" width="850">
-</p>
 
 ## 📦 Instalación
 
@@ -69,9 +62,6 @@ Opcional (según proyecto):
 
 Integrates Antigravity as an external script editor for Unity, enabling file opening, error navigation, and C# project generation for Intellisense.
 
-<p align="center">
-  <img src="Images/demo.gif" alt="Demo" width="850">
-</p>
 
 ## 📦 Installation
 
