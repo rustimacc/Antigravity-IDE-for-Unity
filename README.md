@@ -2,7 +2,7 @@
   <img src="Images/banner.png" alt="Antigravity for Unity Banner" width="100%">
 </p>
 
-<h1 align="center">VivaPeron (Antigravity) for Unity</h1>
+<h1 align="center">Soporte Antigravity para Unity</h1>
 
 <p align="center">
   Integrates Antigravity as an external script editor for Unity.
@@ -31,7 +31,7 @@ Integra Antigravity como editor de scripts externo en Unity, permitiendo apertur
 1. Abrí Unity  
 2. Ir a `Window > Package Manager`  
 3. Click en `+` → `Add package from git URL...`  
-4. Ingresar la URL del repositorio  
+4. " https://github.com/rustimacc/Antigravity-for-Unity.git "
 
 ### vía Disk (local)
 
@@ -43,7 +43,7 @@ Integra Antigravity como editor de scripts externo en Unity, permitiendo apertur
 
 1. Ir a `Edit > Preferences > External Tools`  
 2. En **External Script Editor**, seleccionar:  
-   👉 `VivaPeron (Antigravity)`
+   👉 Antigravity
 
 Si no aparece automáticamente:
 
@@ -92,7 +92,7 @@ Integrates Antigravity as an external script editor for Unity, enabling file ope
 
 1. Go to `Edit > Preferences > External Tools`  
 2. In **External Script Editor**, select:  
-   👉 `VivaPeron (Antigravity)`
+   👉 Antigravity
 
 If it does not appear:
 
@@ -126,3 +126,6 @@ Optional:
 </p>
 
 <h1 align="center">VIVA PERÓN!</h1>
+<p align="center">
+<img src="Images/peron.webp" width="200">
+</p>
