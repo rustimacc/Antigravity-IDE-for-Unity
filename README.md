@@ -1,4 +1,4 @@
-<h1 align="center">Soporte Antigravity para Unity</h1>
+<h1 align="center">Antigravity IDE for Unity/Integración Antigravity IDE para Unity</h1>
 
 <p align="center">
   Integrates Antigravity as an external script editor for Unity.
